@@ -1,16 +1,17 @@
 # musicplayer_responsive_design
 
-A new Flutter project.
+Responsive clon of spotify web page.
 
-## Getting Started
+Features:
+- Pick track (track will glow and player will show current playing track)
+- Changing size of the webpage
+- Scrollable interface (tracklist, albums etc)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/Damncaf-goin-crazy/flutter_spotify_web_response_clone/assets/118183028/738814c1-03c4-4b14-bae7-06278ef7ac9a)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Changing size:
+![image](https://github.com/Damncaf-goin-crazy/flutter_spotify_web_response_clone/assets/118183028/22719b08-3039-4466-99b2-67c3156fa7c0)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![image](https://github.com/Damncaf-goin-crazy/flutter_spotify_web_response_clone/assets/118183028/68c2774d-0b40-4266-9928-9bc383c31dd0)
